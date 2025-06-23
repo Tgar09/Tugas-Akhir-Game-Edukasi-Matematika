@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3067d3c2c7d7a61479c4fe024f0a98d9, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  Level: 3
+  Health: 6
+  MaxHealth: 12
+  Mana: 35
+  MaxMana: 35
+  CurrentExp: 150
+  NextLevelExp: 225
+  InitialNextLevelExp: 100
+  ExpMultiplier: 50
+  BaseDamage: 5
+  CriticalChance: 11.2
+  CriticalDamage: 51.5
+  Strength: 1
+  Dexterity: 0
+  Intelligence: 1
+  AttributePoints: 0
+  TotalExp: 400
+  TotalDamage: 6.5
